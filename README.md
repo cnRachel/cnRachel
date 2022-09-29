@@ -1,9 +1,9 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Rachel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnRachel" alt="raghav-byte" /> </p>
 
-<p align="center">
-  <iframe src="https://giphy.com/embed/otnqsqqzmsw7K" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/butterfly-penguins-otnqsqqzmsw7K">via GIPHY</a></p>
-</p>
+
+<iframe src="https://giphy.com/embed/otnqsqqzmsw7K" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/butterfly-penguins-otnqsqqzmsw7K">via GIPHY</a></p>
+
 
 I'm a Computer Science Enthusiast 👩‍💻, Currently a high school junior 
 
