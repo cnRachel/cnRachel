@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnRachel" alt="raghav-byte" /> </p>
 
 
-<iframe src="https://giphy.com/embed/otnqsqqzmsw7K" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/butterfly-penguins-otnqsqqzmsw7K">via GIPHY</a></p>
+<img src="https://giphy.com/embed/otnqsqqzmsw7K" width="480" height="270" frameBorder="0">
 
 
 I'm a Computer Science Enthusiast 👩‍💻, Currently a high school junior 
