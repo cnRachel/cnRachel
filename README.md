@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnRachel" alt="raghav-byte" /> </p>
 
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+<img align="center" alt="GIF" src="https://giphy.com/gifs/penguin-funny-J2tNIOLEHELkY" />
 
 
 I'm a Computer Science Enthusiast 👩‍💻, Currently a high school junior 
