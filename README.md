@@ -9,11 +9,4 @@ I'm a Computer Science Enthusiast 👩‍💻, Currently a high school junior
 - 🤔 I’m looking for help in learning about competitive programming
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:rachelchen110@gmail.com)
-- ⚡ Fun fact: Jack of all trades , Master of None...but oftentimes better than a master of one!
-
-
-### Some Stats About Rachel (Public Only)
-<p align="center" >
-<img alt="Rachel's github stats" src="https://github-readme-stats.vercel.app/api?username=cnRachel&show_icons=true&theme=merko"  > </p>
-
-<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+- ⚡ Fun fact: I LOVE TENNIS!
