@@ -8,5 +8,5 @@ I'm a Computer Science Enthusiast 👩‍💻, Currently a high school junior
 - 👯 I’m looking to collaborate on game design
 - 🤔 I’m looking for help in learning about competitive programming
 - 💬 Ask me about anything and everything 
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:rachelchen110@gmail.com)
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachelchen110@gmail.com)](mailto:rachelchen110@gmail.com)
 - ⚡ Fun fact: I LOVE TENNIS!
